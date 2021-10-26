@@ -42,6 +42,8 @@ https://medium.com/nerd-for-tech/junit-testing-in-android-with-kotlin-for-beginn
 
 **Open Source Projects**
 
+![](https://img.shields.io/badge/ANDROID-KOTLIN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 There are few open source demo projects for learning purpose, some I'm working on and some are here:-
 
 https://github.com/puneet-softdev/SMS-Marketing-App - This App uses Twilio for Sms Marketing Online Service with modern architecture of Android called MVVM and Most popular Library RxJava, Data Binding, Dagger, and Most recommended Database Room for storing Message History. This App will use static Json of Contacts kept in raw folder itself
