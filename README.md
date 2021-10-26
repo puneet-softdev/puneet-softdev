@@ -11,7 +11,7 @@ I am also Active Contributor at Google Crowdsource at Level 10
 
 Apart from coding stuff, I loves to mentor people with their queries regarding their career, latest trends, architecture and best practices. My medium Article crossed 1k+ Claps and 10k+ views on Android Best Practices
 
-Technical Writing Experience
+**Technical Writing Experience**
 
 Android App Coding Best Practices | 10 Points
 https://puneet-grover.medium.com/android-app-coding-best-practices-10-points-e14bb2ff10c2
