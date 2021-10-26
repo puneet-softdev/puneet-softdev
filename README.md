@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey Everyone! I'm working as a Technical Consultant for Android at Deloitte USI (Big4)
+I'm working as a Technical Consultant for Android at Deloitte USI (Big4)
 
 I started my career as an Android Developer with company like Public Health Technologies Delhi, Dew Solutions (CMMI Level 5) and with clients like Vodafone, iTrade Network US with exposure on products like B2B, B2C
 
