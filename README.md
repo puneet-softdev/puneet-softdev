@@ -1,9 +1,11 @@
 ### Hi there 👋
+
 I'm working as a Technical Consultant for Android at Deloitte USI (Big4)
+Also Google Certified Android Dev with Kotlin
 
-I started my career as an Android Developer with company like Public Health Technologies Delhi, Dew Solutions (CMMI Level 5) and with clients like Vodafone, iTrade Network US with exposure on products like B2B, B2C
+I started my career as an Android Developer with company like Public Health Technologies Delhi, Dew Solutions (CMMI Level 5) and with clients like Vodafone, iTrade Network US, Zenius (1 Million Downloads) with exposure on products like B2B, B2C
 
-I'm active technical blogger with part of 3 Publications.
+Active technical blogger with part of 3 Publications on Medium with over 10k+ Views & 1k+ Claps on Single Article about Android Best Practices  
 
 With that I took initiative like 
 -> Managining, Preparing PPT's and Speaking at Engineering Meet at Deloitte USI
@@ -52,7 +54,7 @@ https://github.com/puneet-softdev/Android-with-Kotlin-Bootcamp - A Sample very b
 
 https://github.com/puneet-softdev/consume_githubapi - This will consume Popular GitHub Api and will show Repos Listing in Android app. Repo detail will get open with Shared Element Transition. It uses MVVM, Dagger, RxJava, DataBinding
 
-Espresso with Kotlin - Working on it so that anyone start look into it and start working with Espresso directly for UI Automation Test which includes:- Activity Launch, Button Actions, Activity Displayed or not, Typing Texts, Menus Actions and Recyclerview actions and scrolling etc.
+https://github.com/puneet-softdev/Espresso-with-Kotlin (Espresso with Kotlin) - This is so that anyone can start working with Espresso directly for UI Automation Test which includes:- Activity Launch, Button Actions, Activity Displayed or not, Typing Texts, Menus Actions and Recyclerview actions and scrolling etc.
 
 
 
