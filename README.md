@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=puneet-softdev)
+
 I'm working as a Technical Consultant for Android at Deloitte USI (Big4)
 Also Google Certified Android Dev with Kotlin
 
